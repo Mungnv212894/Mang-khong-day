@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=U6-1
+Change Component Footprint: Designator=U6 Old Footprint=MODULE_RA-02_LORA New Footprint=XCVR_RA-01H
+Change Component Comment : Designator=U6 Old Comment=RA-01_LORA New Comment=RA-01H
+Change component parameters: Designator = "U6" ("U6"); Footprint = "MODULE_RA-02_LORA"; UniqueID = "\OJBODYTJ" ("\OJBODYTJ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RA-01H/AI-Thinker/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AI-Thinker"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RA-01H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RA-01H/AI-Thinker/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
